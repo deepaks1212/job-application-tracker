@@ -1,0 +1,6 @@
+{
+  "name": "Job Application Tracker",
+  "description": "A professional and modern web application to manage job or internship applications, track process stages, and view statistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
