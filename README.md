@@ -146,5 +146,17 @@ npm run lint     # Run TypeScript type checking
 npm run test     # Run test suite (Vitest)
 npm run clean    # Remove build artifacts
 ```
+## 📸 Project Screenshots
 
+### Dashboard
+![Dashboard](./src/screenshort/Dashboard.png)
+
+### Add Application
+![Add Application](./src/screenshort/applicationpage.png)
+
+### Statistics Visualization
+![Statistics](./src/screenshort/Staticts.png)
+
+### Dark Mode
+![Dark Mode](./src/screenshort/darkmode.png)
 ---
